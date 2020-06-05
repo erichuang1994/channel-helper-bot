@@ -1,0 +1,2 @@
+python_telegram_bot==12.6.1
+ninesix==0.0.4
